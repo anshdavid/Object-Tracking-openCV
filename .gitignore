@@ -1,0 +1,5 @@
+!.gitignore
+*.ipynb_checkpoints
+videos/los_angeles.mp4
+videos/nascar.mp4
+videos/soccer_01.mp4
